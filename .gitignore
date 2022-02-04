@@ -1,0 +1,16 @@
+/.vscode
+/part1/.vscode
+/part1/anecdotes/.vscode
+/part1/anecdotes/node_modules
+/part1/courseinfo/node_modules
+/part1/unicafe/.vscode
+/part1/unicafe/node_modules
+/part2/courseinfo/node_modules
+/part2/phonebook/.vscode
+/part2/phonebook/node_modules
+/part2/dataforcountries/.vscode
+/part2/dataforcountries/node_modules
+/part2/dataforcountries/.env
+/part3/phonebookbackend/node_modules
+/part3/phonebookbackend/.env
+/part3/phonebookbackend/test_persons.rest
