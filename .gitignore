@@ -14,3 +14,6 @@
 /part3/phonebookbackend/node_modules
 /part3/phonebookbackend/.env
 /part3/phonebookbackend/test_persons.rest
+/part4/bloglist/node_modules
+/part4/bloglist/.env
+/part4/bloglist/test_blogs_app.rest
