@@ -1,0 +1,19 @@
+POST http://localhost:3001/api/blogs HTTP/1.1
+content-type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImltZWQiLCJpZCI6IjYyZWQ2NWYwNTc4M2E2NDQ5NzEyOGIzZSIsImlhdCI6MTY1OTcyNjMzNn0.BESaqqO6oOk3UAMC_Xda9A55zr5b6TmS4u8UwK3PXdE
+
+{
+    "title": "imed first title",
+    "url": "imedfirsturl.com"
+}
+
+###
+
+POST http://localhost:3001/api/blogs HTTP/1.1
+content-type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImltZWQiLCJpZCI6IjYyZWQ2NWYwNTc4M2E2NDQ5NzEyOGIzZSIsImlhdCI6MTY1OTcyNjMzNn0.BESaqqO6oOk3UAMC_Xda9A55zr5b6TmS4u8UwK3PXdE 
+
+{
+    "title": "imed second title",
+    "url": "imedsecondurl.com"
+}
