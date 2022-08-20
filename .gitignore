@@ -25,6 +25,7 @@
 /part5/bloglist/.env
 /part7/routed-anecdotes/.vscode
 /part7/routed-anecdotes/node_modules
+/part7/bloglist-frontend/node_modules
 /part6/unicafe-redux/.vscode
 /part6/unicafe-redux/node_modules
 /part6/redux-anecdotes/.vscode
